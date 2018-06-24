@@ -29,7 +29,3 @@ println p1 == p2
 println p1 != p3
 
 Set people = [p1, p2, p3, p4]
-
-
-Range r = 1..10
-println(r)
