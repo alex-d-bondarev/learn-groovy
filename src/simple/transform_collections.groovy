@@ -1,3 +1,4 @@
+package simple
 //List nums = [1, 2, 3, 4, 5, 6]
 //List results = []
 //nums.each{

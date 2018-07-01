@@ -1,3 +1,4 @@
+package simple
 
 List nums = [1, 2, 5, 6, 9, 0, 4, 2, 1, 7]
 println nums

@@ -1,3 +1,4 @@
+package simple
 
 Range r = 1..10
 println(r)

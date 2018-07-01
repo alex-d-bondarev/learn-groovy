@@ -1,3 +1,4 @@
+package simple
 
 String name
 //String n = ( name!= null && name.size() > 0 ? name : "World")

@@ -1,3 +1,5 @@
+package simple
+
 def map = [a:1, b:2, c:3, 'p':0]
 map.put('d', 4)
 map['e'] = 5

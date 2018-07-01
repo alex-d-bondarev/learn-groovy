@@ -1,3 +1,4 @@
+package simple
 
 class Department {
     Manager boss

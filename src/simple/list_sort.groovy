@@ -1,3 +1,5 @@
+package simple
+
 List strings = "this is a list of strings".split()
 println strings
 
